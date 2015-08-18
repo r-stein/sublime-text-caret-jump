@@ -1,0 +1,28 @@
+[
+	{
+		"keys": ["super+k", "super+n"],
+		"command": "caret_jump"
+	},
+	{
+		"keys": ["super+k", "super+shift+n"],
+		"command": "caret_jump",
+		"args": {
+			"jump": false
+		}
+	},
+	{
+		"keys": ["super+k", "super+ctrl+n"],
+		"command": "caret_jump",
+		"args": {
+			"repeat_previous_jump": true
+		}
+	},
+	{
+		"keys": ["super+k", "super+ctrl+shift+n"],
+		"command": "caret_jump",
+		"args": {
+			"jump": false,
+			"repeat_previous_jump": true
+		}
+	},
+]
