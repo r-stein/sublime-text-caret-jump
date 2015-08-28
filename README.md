@@ -26,7 +26,7 @@ This packet is for the use of multiple carets and starts the search for every ca
 
 ## Demonstration
 
-## Swap words
+### Swap words
 
 This demonstration uses a single caret, to search forward and swap the word with an other.
 
@@ -34,7 +34,7 @@ Used keys: `ctrl+d`, `ctrl+k ctrl+shift+n` (type search expression), `ctrl+t`
 
 ![swap words demonstration](https://github.com/r-stein/sublime-text-caret-jump/raw/images/img/swap_words.gif)
 
-## Remove function parameters
+### Remove function parameters
 
 Used keys: `ctrl+d` (several times), `ctrl+k ctrl+shift+n` (the expression searches the content of parenthesis and excludes the parenthesis), `backspace` (to remove the content)
 
